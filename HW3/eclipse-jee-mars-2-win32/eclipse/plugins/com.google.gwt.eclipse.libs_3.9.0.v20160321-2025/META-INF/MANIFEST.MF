@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.3.9
+Built-By: akerekes
+Build-Jdk: 1.7.0-google-v6
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: com.google.gwt.eclipse.libs
+Bundle-Version: 3.9.0.v20160321-2025
+Bundle-Vendor: %providerName
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Eclipse-BundleShape: dir
+Export-Package: com.google.gwt.eclipse.libs
+
